@@ -139,10 +139,7 @@ public class Calendar_Locaters extends Projects_actions {
 		public By ChooseFile=By.cssSelector("[id*='fileNameSpan_']");
 		public By AttachBut=By.className("ui-button-text");
 		
-		
-		public By Feed=By.className("zoho-home-feeds");
-		public By Docslink =By.id("smartdocs_0");
-		
+				
 }
 
 
